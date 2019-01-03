@@ -16,22 +16,25 @@ Questioner: It is a crowd-source questions for a meetup. It helps the meetup org
 
 ### Testing
 - Clone the repository
+
         ```
         $ git clone https://github.com/MRichardN/Questioner-UI.git
         ```
 - cd into the directory
+
         ```
         $ cd Questioner-UI
         ```
 - Navigate through the different html and css files
 - Open the html files using google chrome of browser of your choice
--
+
 ### License
-This platform is licensed under [MIT License](https://github.com/MRichardN/Questioner-UI/blob/gh-pages/LICENSE)
+- This platform is licensed under [MIT License](https://github.com/MRichardN/Questioner-UI/blob/gh-pages/LICENSE)
 
 ### Author
-Mathtenge Richard [MRichardN](https://github.com/MRichardN)
+- Mathenge Richard [MRichardN](https://github.com/MRichardN)
 
 ### Acknoledement
-Andela-Workshops
-Team 11 [Slcak](https://andela-workshops.slack.com/messages/CF4Q9HRM0/)
+- Andela-Workshops
+
+- Team 11 [Slcak](https://andela-workshops.slack.com/messages/CF4Q9HRM0/)
