@@ -11,11 +11,13 @@
 Questioner: It is a crowd-source questions for a meetup. It helps the meetup organizer prioritize  questions to be answered. Users can vote on asked questions.
 
 ### Prerequisites
+------------------
 
 - Google chrome or any browser of your choice
 - VS Code or editor of your choice
  
 ### Features
+-------------
 
 - Admin can create meetups. 
 - Users can create an account and log in. 
@@ -26,6 +28,7 @@ Questioner: It is a crowd-source questions for a meetup. It helps the meetup org
 - Users can post comments to a specific question. 
 
 ### Testing
+------------
 
 - Clone the repository
     ```
@@ -39,14 +42,17 @@ Questioner: It is a crowd-source questions for a meetup. It helps the meetup org
 - Open the html files using google chrome of browser of your choice
 
 ### License
+-----------
 
 - This platform is licensed under [MIT License](https://github.com/MRichardN/Questioner-UI/blob/gh-pages/LICENSE)
 
 ### Author
+-----------
 
 - Mathenge Richard [MRichardN](https://github.com/MRichardN)
 
 ### Acknoledement
+--------------------
 
 - Andela-Workshops
 - Team 11 [Slcak](https://andela-workshops.slack.com/messages/CF4Q9HRM0/)
