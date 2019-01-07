@@ -42,17 +42,17 @@ Questioner: It is a crowd-source questions for a meetup. It helps the meetup org
 - Open the html files using google chrome of browser of your choice
 
 ### License
------------
+---------
 
 - This platform is licensed under [MIT License](https://github.com/MRichardN/Questioner-UI/blob/gh-pages/LICENSE)
 
 ### Author
------------
+---------
 
 - Mathenge Richard [MRichardN](https://github.com/MRichardN)
 
-### Acknoledement
---------------------
+### Acknowledement
+----------------
 
 - Andela-Workshops
 - Team 11 [Slcak](https://andela-workshops.slack.com/messages/CF4Q9HRM0/)
